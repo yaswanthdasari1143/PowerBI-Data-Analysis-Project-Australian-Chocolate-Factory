@@ -55,12 +55,7 @@ The dashboard focuses on converting raw data into meaningful insights to support
 
 ---
 
-## 📁 Project File
-- Power BI Report File: `PowerBI_Report.pbix`  
 
-> ⚠️ Note: The dataset used in this project is embedded within the `.pbix` file and not shared separately.
-
----
 
 ## 🚀 How to Use
 1. Download the `.pbix` file  
@@ -85,10 +80,3 @@ The dashboard focuses on converting raw data into meaningful insights to support
 
 ---
 
-## 🤝 Contribution
-Feel free to fork this repository and suggest improvements.
-
----
-
-## 📬 Contact
-For any queries or feedback, feel free to connect.
